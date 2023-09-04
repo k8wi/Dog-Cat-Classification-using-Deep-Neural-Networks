@@ -13,8 +13,8 @@ The data directory structure I used was:
 
 * project
   * data
-   * dogs
-   * cats 
+    * dogs
+    * cats 
 
 ## Performance
 The result of the notebook in this repo produced a log loss score on Kaggle's hidden dataset of 1.3778e-04 and an accuracy of 86.81% -- further gains can probably be achieved by creating an ensemble of classifiers using this approach. 
